@@ -4,9 +4,13 @@
 I'm a web developer that looking for improving every day to be a Frontend developer, I have created several projects using JavaScript, HTML, CSS and development methodologies like Github. In the other hand, I'm learning Python with the goal of becoming a backend developer too. My main goal is grow as a professional, reach a high seniority level and take a role in software development. Personally, I like to exercise, running, these help me to focus on mine goals.
 
 📖 I’m currently studing on [Platzi](https://platzi.com).
+
 💪🏼 I’m currently improving my English.
+
 🇸🇰 I’m currently learning Slovak language.
+
 ☁️ I'm trying to learn cloud computing.
+
 
 ## Projects
 I enjoy investing my time making projects to increase my technical skills and keep learning about new technologies; doing that all the pieces work together using good programming practices.
@@ -50,10 +54,13 @@ Here are some of my best projects.
 ## Find me there:
 
 [![](https://camo.githubusercontent.com/42312e937813abe3eee7d5e9bb08df31605b20af03dd433c4a0dd6233f9fad16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/_FAID__ "Twitter")
+
 [![](https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](www.linkedin.com/in/fredy-izquierdo "LinkedIn")
+
 [![](https://camo.githubusercontent.com/14a3b82951a8bfe8bbb1e1619e9283e5ed9375b1721eea15fff5dea1e76448b5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436f646550656e26636f6c6f723d303030303030266c6f676f3d436f646550656e266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://codepen.io/faidrn/ "Codepen")
 
 ## Contact me
 
 E-mail: [fredy_izquierdo@hotmail.es](mailto:fredy_izquierdo@hotmail.es)
+
 CV: *in construction*
