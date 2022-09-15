@@ -12,6 +12,7 @@ I'm a web developer that looking for improving every day to be a Frontend develo
 ☁️ I'm trying to learn cloud computing.
 
 
+
 ## Projects
 I enjoy investing my time making projects to increase my technical skills and keep learning about new technologies; doing that all the pieces work together using good programming practices.
 
@@ -19,19 +20,31 @@ Here are some of my best projects.
 
 #### Web development
 
-- [Hangman Game: It's a guessing game about the player tries to guess a word by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, this is HTML, CSS and JavaScript's version.](https://faidrn.github.io/hangman-game/)
++ [Hangman Game](https://faidrn.github.io/hangman-game/): It's a guessing game about the player tries to guess a word by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, this is HTML, CSS and JavaScript's version.
 
-- [Youtube Clone: Clone of youtube done for study purposes only, looking for to improve skills in HTML, CSS and JavaScript.](https://faidrn.github.io/youtube-clone/)
+    + [Repository](https://github.com/faidrn/hangman-game)
 
-- [Book in 3D with CSS: Drawing of a book in 3D with HTML and CSS.](https://faidrn.github.io/hello-world/book-3d.html)
++ [Youtube Clone](https://faidrn.github.io/youtube-clone/): Clone of youtube done for study purposes only, looking for to improve skills in HTML, CSS and JavaScript.
 
-- [House in 3D with CSS, Dragon Ball Z: Drawing from the kame house in 3D from the anime Dragon Ball Z; using HTML, CSS and JavaScript.](https://faidrn.github.io/hello-world/kame-house/kame-house.html)
+    + [Repository](https://github.com/faidrn/youtube-clone)
 
-- [Savings Capacity Simulator: Simulator that calculates the possibility of separating a percentage of the income and reserving it for future use.](https://faidrn.github.io/hello-world/JavaScript/salary-study-simulator/capacidad-de-ahorro.html)
++ [Book in 3D with CSS](https://faidrn.github.io/hello-world/book-3d.html): Drawing of a book in 3D with HTML and CSS.
+
+    + [Repository](https://github.com/faidrn/hello-world/blob/main/book-3d.html)
+
++ [House in 3D with CSS, Dragon Ball Z](https://faidrn.github.io/hello-world/kame-house/kame-house.html): Drawing from the kame house in 3D from the anime Dragon Ball Z; using HTML, CSS and JavaScript.
+
+    + [Repository](https://github.com/faidrn/hello-world/tree/main/kame-house)
+
++ [Savings Capacity Simulator](https://faidrn.github.io/hello-world/JavaScript/salary-study-simulator/capacidad-de-ahorro.html): Simulator that calculates the possibility of separating a percentage of the income and reserving it for future use.
+
+    + [Repository](https://github.com/faidrn/hello-world/tree/main/JavaScript/salary-study-simulator)
 
 #### Python
 
-- [Hangman Game: is a guessing game about the player tries to guess a word by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, this version was made with Python.](https://github.com/faidrn/hangman-game-py)
++ [Hangman Game](https://github.com/faidrn/hangman-game-py): It's a guessing game about the player tries to guess a word by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, this version was made with Python.
+
+    + [Repository](https://github.com/faidrn/hangman-game-py)
 
 
 ## My stack technologies
