@@ -22,7 +22,7 @@ Here are some of my best projects.
 
 #### Web development
 
-+ [Analog clock](https://github.com/faidrn/analog-clock): Analog clock with HTML, CSS and JavaScript. 
++ [Analog clock](https://faidrn.github.io/analog-clock/): Analog clock with HTML, CSS and JavaScript. 
 
     + [Repository](https://github.com/faidrn/analog-clock)
 
