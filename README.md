@@ -5,11 +5,13 @@ I'm a web developer that looking for improving every day to be a Frontend develo
 
 📖 I’m currently studing on [Platzi](https://platzi.com).
 
-💪🏼 I’m currently improving my English.
+💪🏼 Improving my English permanently.
 
 🇸🇰 I’m currently learning Slovak language.
 
 ☁️ I'm trying to learn cloud computing.
+
+🧠 Soon, I'll learning Artificial Intelligence.
 
 
 
@@ -19,6 +21,10 @@ I enjoy investing my time making projects to increase my technical skills and ke
 Here are some of my best projects.
 
 #### Web development
+
++ [Analog clock](https://github.com/faidrn/analog-clock): Analog clock with HTML, CSS and JavaScript. 
+
+    + [Repository](https://github.com/faidrn/analog-clock)
 
 + [Hangman Game](https://faidrn.github.io/hangman-game/): It's a guessing game about the player tries to guess a word by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, this is HTML, CSS and JavaScript's version.
 
