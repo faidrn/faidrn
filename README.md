@@ -20,11 +20,11 @@ Here are some of my best projects.
 
 #### Web development
 
-+ [Neon text effect ](https://faidrn.github.io/texto-neon-con-html-css/): Neon text with HTML and CSS. 
++ [Neon text effect ](https://faidrn.github.io/texto-neon-con-html-css/): Neon text with HTML and CSS, AI-powered. 
 
     + [Repository](https://github.com/faidrn/texto-neon-con-html-css)
 
-+ [Digital clock](https://faidrn.github.io/digital-clock/): Digital clock with HTML, CSS and JavaScript. 
++ [Digital clock](https://faidrn.github.io/digital-clock/): Digital clock with HTML, CSS and JavaScript, AI-powered. 
 
     + [Repository](https://github.com/faidrn/digital-clock)
 
