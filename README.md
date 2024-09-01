@@ -52,6 +52,11 @@ Here are some of my best projects.
 
     + [Repository](https://github.com/faidrn/hello-world/tree/main/JavaScript/salary-study-simulator)
 
++ **Instagram clone:** This is a simplified version of the popular social media platform Instagram, for educational purposes only, applying the knowledge acquired in learning Frontend.
+
+    + [Repository](https://github.com/faidrn/instagram-clone)
+    
+
 #### Python
 
 + [Hangman Game](https://github.com/faidrn/hangman-game-py): It's a guessing game about the player tries to guess a word by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, this version was made with Python.
