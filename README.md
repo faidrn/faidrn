@@ -172,6 +172,22 @@ This is a simplified version of the popular social media platform Instagram, for
 + **Screenshots**
 
 
+
+### Challenges
+
+#### PlatziWebChallange - Projects to grow as a Web Developer
+This challenge applies basic knowledge of HTML and CSS
+
++ **Demo:** [Click here](https://faidrn.github.io/landing-page-con-unica-seccion-de-introduccin/)
+
++ **Repository:** [Click here](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin)
+
++ **Screenshots**
+
+![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/desktop-design.jpg)
+
+
+
 ### Python Projects
 
 #### Hangman Game
