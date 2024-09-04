@@ -186,6 +186,7 @@ This challenge applies basic knowledge of HTML and CSS
 
 ![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/desktop-design.jpg)
 
+----
 
 
 ### Python Projects
