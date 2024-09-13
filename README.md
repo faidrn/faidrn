@@ -175,7 +175,11 @@ This is a simplified version of the popular social media platform Instagram, for
 
 ### Challenges
 
-#### PlatziWebChallange - Projects to grow as a Web Developer
+### PlatziWebChallange
+
+Projects to grow as a Web Developer
+
+#### Single Section Landing Pages
 This challenge applies basic knowledge of HTML and CSS
 
 + **Demo:** [Click here](https://faidrn.github.io/landing-page-con-unica-seccion-de-introduccin/)
@@ -194,7 +198,7 @@ This challenge applies basic knowledge of HTML and CSS
 
 
 
-#### PlatziWebChallange - Challenge article preview component
+#### Challenge article preview component
 This challenge applies basic knowledge of HTML, CSS and JavaScript
 
 + **Demo:** [Click here](https://faidrn.github.io/challenge-article-preview-component/)
