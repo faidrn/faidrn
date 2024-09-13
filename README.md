@@ -185,10 +185,12 @@ This challenge applies basic knowledge of HTML and CSS
 + **Screenshots**
 
 **Desktop**
+
 ![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/desktop-design.jpg)
 
 **Mobile**
-![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/mobile-design.jpg=60x50)
+
+![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/mobileScreenShot.png)
 
 
 
@@ -202,9 +204,11 @@ This challenge applies basic knowledge of HTML, CSS and JavaScript
 + **Screenshots**
 
 **Desktop**
+
 ![](https://github.com/faidrn/challenge-article-preview-component/blob/main/design/desktop-active-state.jpg)
 
 **Mobile**
+
 ![](https://github.com/faidrn/challenge-article-preview-component/blob/main/design/mobile-active-state.jpg)
 
 ----
