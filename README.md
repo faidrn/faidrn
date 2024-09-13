@@ -188,7 +188,7 @@ This challenge applies basic knowledge of HTML and CSS
 ![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/desktop-design.jpg)
 
 **Mobile**
-![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/mobile-design.jpg|width=50|height=50)
+![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/mobile-design.jpg=60x50)
 
 
 
