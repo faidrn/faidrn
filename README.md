@@ -186,6 +186,19 @@ This challenge applies basic knowledge of HTML and CSS
 
 ![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/desktop-design.jpg)
 
+
+
+#### PlatziWebChallange - Challenge article preview component
+This challenge applies basic knowledge of HTML, CSS and JavaScript
+
++ **Demo:** [Click here](https://faidrn.github.io/challenge-article-preview-component/)
+
++ **Repository:** [Click here](https://github.com/faidrn/challenge-article-preview-component)
+
++ **Screenshots**
+
+![](https://github.com/faidrn/challenge-article-preview-component/blob/main/design/desktop-active-state.jpg)
+
 ----
 
 
