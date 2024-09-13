@@ -190,6 +190,8 @@ This challenge applies basic knowledge of HTML and CSS
 **Mobile**
 ![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/mobile-design.jpg)
 
+<img src="github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/mobile-design.jpg" width="200" height="100">
+
 
 
 #### PlatziWebChallange - Challenge article preview component
