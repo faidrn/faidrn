@@ -219,7 +219,7 @@ This challenge applies basic knowledge of HTML, CSS and JavaScript
 #### Challenge Four Card Feature Section
 This challenge applies basic knowledge of HTML, CSS
 
-+ **Demo:** **In Progress** [[Click here](https://faidrn.github.io/challenge-four-card-feature-section/)]
++ **Demo:** **In Progress** <!--[Click here](https://faidrn.github.io/challenge-four-card-feature-section/)-->
 
 + **Repository:** [Click here](https://github.com/faidrn/challenge-four-card-feature-section)
 
