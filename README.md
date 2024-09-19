@@ -16,6 +16,23 @@ I enjoy investing my time making projects to increase my technical skills and ke
 
 ### Web development
 
+#### Instagram Clone
+This is a simplified version of the popular social media platform Instagram, for educational purposes only, applying the knowledge acquired in learning Frontend.
+
+**In Progress**
+
++ **Technologies used:**
+
+    - HTML, CSS and JavaScript.
+
++ **Demo:** <!--[Click here](https://faidrn.github.io/instagram-clone/)-->
+
++ **Repository:** [Click here](https://github.com/faidrn/instagram-clone)
+
++ **Screenshots**
+
+
+
 #### Neon text effect
 neon text effect with glowing edges, mimicking the look of neon lights.
 
@@ -153,23 +170,6 @@ Simulator that calculates the possibility of separating a percentage of the inco
 + **Screenshots**
 
 ![](https://github.com/faidrn/hello-world/blob/main/screens/savings.png)
-
-
-
-#### Instagram Clone
-This is a simplified version of the popular social media platform Instagram, for educational purposes only, applying the knowledge acquired in learning Frontend.
-
-**In Progress**
-
-+ **Technologies used:**
-
-    - HTML, CSS and JavaScript.
-
-+ **Demo:** 
-
-+ **Repository:** [Click here](https://github.com/faidrn/instagram-clone)
-
-+ **Screenshots**
 
 
 
