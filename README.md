@@ -198,7 +198,7 @@ This challenge applies basic knowledge of HTML and CSS
 
 
 
-#### Challenge article preview component
+#### Challenge Article Preview Component
 This challenge applies basic knowledge of HTML, CSS and JavaScript
 
 + **Demo:** [Click here](https://faidrn.github.io/challenge-article-preview-component/)
@@ -214,6 +214,24 @@ This challenge applies basic knowledge of HTML, CSS and JavaScript
 **Mobile**
 
 ![](https://github.com/faidrn/challenge-article-preview-component/blob/main/design/mobile-active-state.jpg)
+
+
+#### Challenge Four Card Feature Section
+This challenge applies basic knowledge of HTML, CSS
+
++ **Demo:** **In Progress** [[Click here](https://faidrn.github.io/challenge-four-card-feature-section/)]: #
+
++ **Repository:** [Click here](https://github.com/faidrn/challenge-four-card-feature-section)
+
++ **Screenshots**
+
+**Desktop**
+
+![](https://github.com/faidrn/challenge-four-card-feature-section/blob/main/design/desktop-design.jpg)
+
+**Mobile**
+
+![](https://github.com/faidrn/challenge-four-card-feature-section/blob/main/design/mobile-design.jpg)
 
 ----
 
