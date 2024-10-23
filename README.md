@@ -25,7 +25,7 @@ This is a simplified version of the popular social media platform Instagram, for
 
     - HTML, CSS and JavaScript.
 
-+ **Demo:** <!--[Click here](https://faidrn.github.io/instagram-clone/)-->
++ **Demo:** [Click here](https://faidrn.github.io/instagram-clone/)
 
 + **Repository:** [Click here](https://github.com/faidrn/instagram-clone)
 
