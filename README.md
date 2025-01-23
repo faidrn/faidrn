@@ -16,6 +16,24 @@ I enjoy investing my time making projects to increase my technical skills and ke
 
 ### Web development
 
+### React.js
+
+#### ToDo List
+This project, "Curso React Intro," is an introduction to React development, designed to learn and apply the fundamental concepts of this popular JavaScript library. The course covers key aspects such as component creation, state management, props, routing, and the use of side effects. The repository includes practical examples and exercises to facilitate the understanding of React and its integration with other technologies. It is ideal for those seeking a solid foundation before diving into more complex React applications.
+
++ **Technologies used:**
+
+    - HTML, CSS, React.js 
+
++ **Repository:** [Click here](https://github.com/faidrn/curso-react-intro)
+
++ **Screenshots**
+
+![](https://raw.githubusercontent.com/faidrn/curso-react-intro/refs/heads/main/public/img/screenshoot.png)
+
+
+
+
 #### Instagram Clone
 This is a simplified version of the popular social media platform Instagram, for educational purposes only, applying the knowledge acquired in learning Frontend.
 
