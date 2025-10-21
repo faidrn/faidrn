@@ -1,5 +1,5 @@
 <!-- 👋 Banner (optional) -->
-![Fredy Izquierdo Banner](https://raw.githubusercontent.com/faidrn/faidrn/main/assets/banner.png)
+![Fredy Izquierdo Banner](https://github.com/faidrn/faidrn/blob/main/assets/banner.png)
 
 # 👋 Hi, I'm Fredy Izquierdo  
 ### 💻 Web Developer | Tech Enthusiast | Lifelong Learner  
