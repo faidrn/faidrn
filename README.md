@@ -1,310 +1,172 @@
-# Hi there 👋
+<!-- 👋 Banner (optional) -->
+![Fredy Izquierdo Banner](https://your-banner-image-link-here.png)
 
-## About me...
-Hi! I'm Fredy Izquierdo, a web developer passionate about creating modern, efficient web applications with a focus on user experience. This repository showcases some of the projects I've worked on, including technologies like HTML, CSS, JavaScript, and more.
+# 👋 Hi, I'm Fredy Izquierdo  
+### 💻 Web Developer | Tech Enthusiast | Lifelong Learner  
 
-📖 I’m currently studing on [Platzi](https://platzi.com).
+I'm a **web developer** with a background in **systems engineering**, passionate about building clean, fast, and user-friendly web applications.  
+I enjoy combining logic and design to create digital experiences that truly connect with people.
 
-💪🏼 Improving my English permanently.
+💬 *"Always learning. Always building. 🚀"*
 
-🇸🇰 I’m currently learning Slovak language.
+---
 
+## 🧰 Tech Stack
 
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## Featured Projects
-I enjoy investing my time making projects to increase my technical skills and keep learning about new technologies; doing that all the pieces work together using good programming practices.
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Web development
+### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### React.js
 
-#### ToDo List
-This project, "Curso React Intro," is an introduction to React development, designed to learn and apply the fundamental concepts of this popular JavaScript library. The course covers key aspects such as component creation, state management, props, routing, and the use of side effects. The repository includes practical examples and exercises to facilitate the understanding of React and its integration with other technologies. It is ideal for those seeking a solid foundation before diving into more complex React applications.
 
-+ **Technologies used:**
+---
 
-    - HTML, CSS, React.js 
+## 🚀 Featured Projects
 
-+ **Repository:** [Click here](https://github.com/faidrn/curso-react-intro)
+### 📝 [To-Do List App (React)](https://github.com/faidrn/curso-react-intro)
+**Description:** A simple and elegant to-do list app built during my React learning journey.  
+**Highlights:** Component-based structure, hooks usage, and local storage persistence.  
+**Technologies:** React.js, CSS, JavaScript  
+**Demo:** [View Project](https://github.com/faidrn/curso-react-intro)
 
-+ **Screenshots**
+---
 
-![](https://raw.githubusercontent.com/faidrn/curso-react-intro/refs/heads/main/public/img/screenshoot.png)
+### 🎥 [YouTube Clone](https://github.com/faidrn/youtube-clone)
+**Description:** A responsive YouTube-style video app created with modern web technologies.  
+**Highlights:** UI/UX similar to YouTube, responsive design, and dynamic layout.  
+**Technologies:** HTML5, CSS3, JavaScript  
+**Demo:** [View Project](https://github.com/faidrn/youtube-clone)
 
+---
 
+### ⏰ [Analog Clock](https://github.com/faidrn/analog-clock)
+**Description:** A real-time analog clock built entirely with HTML, CSS, and JavaScript.  
+**Highlights:** Smooth animations and responsive design.  
+**Technologies:** HTML5, CSS3, JavaScript  
 
+---
 
-#### Instagram Clone
-This is a simplified version of the popular social media platform Instagram, for educational purposes only, applying the knowledge acquired in learning Frontend.
+### 🕹️ [Hangman Game](https://github.com/faidrn/hangman-game)
+**Description:** Classic hangman game implemented in JavaScript.  
+**Highlights:** Interactive gameplay, dynamic word selection, and winning/losing states.  
+**Technologies:** HTML5, CSS3, JavaScript  
 
-**In Progress**
+---
 
-+ **Technologies used:**
+### 🏠 [House in 3D with CSS](https://github.com/faidrn/hello-world/tree/main/kame-house)
+**Description:** 3D house inspired by Dragon Ball Z Kame House built using pure CSS.  
+**Highlights:** Creative 3D design using CSS transformations and animations.  
+**Technologies:** HTML5, CSS3, JavaScript  
 
-    - HTML, CSS and JavaScript.
+---
 
-+ **Demo:** [Click here](https://faidrn.github.io/instagram-clone/)
+## 🏆 Coding Challenges
 
-+ **Repository:** [Click here](https://github.com/faidrn/instagram-clone)
+### 🌐 Landing Page Single Section
+[Landing Page - Single Section Introduction](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin)  
+**Description:** A single-section landing page with responsive layout and clean design.  
+**Technologies:** HTML5, CSS3, JavaScript  
 
-+ **Screenshots**
+---
 
+### 📰 Article Preview Component
+[Article Preview Component Challenge](https://github.com/faidrn/challenge-article-preview-component)  
+**Description:** A responsive article preview card with hover interactions.  
+**Technologies:** HTML5, CSS3, JavaScript  
 
+---
 
-#### Neon text effect
-neon text effect with glowing edges, mimicking the look of neon lights.
+### 🖼️ Four Card Feature Section
+[Four Card Feature Section Challenge](https://github.com/faidrn/challenge-four-card-feature-section)  
+**Description:** A creative feature section with four cards demonstrating layout skills.  
+**Technologies:** HTML5, CSS3  
 
-+ **Technologies used:**
 
-    - HTML, CSS, AI-powered. 
+---
 
-+ **Demo:** [Click here](https://faidrn.github.io/texto-neon-con-html-css/)
+## 📚 Currently Learning
 
-+ **Repository:** [Click here](https://github.com/faidrn/texto-neon-con-html-css)
+- React.js (Advanced concepts & hooks)  
+- Node.js & Express  
+- UX/UI Design fundamentals  
+- English (improving communication & fluency)  
 
-+ **Screenshots**
+---
 
-![](https://github.com/faidrn/texto-neon-con-html-css/blob/main/assets/images/ScreenShot.png)
+## 💼 Experience
 
+**Support Professional**  
+*Caja De Compensación Familiar Del Casanare – Comfacasanare, Casanare, Colombia (2008 – 2022)*  
+- Provided technical assistance for quality assurance and control processes.
+- Contributed to software and system testing to ensure compliance with standards.
+- Designed, developed, implemented, and maintained the organization’s quality management, administrative risk management, and complaints and claims systems, including platform testing and automation.
+- Managed and administered the quality web portal.
+- Provided support to the company’s Quality Management System (QMS).
+- Handled non-conformities identified in internal and external audits.
+- Conducted training sessions related to quality standards.
+- Supported internal and external audit processes.
+- Ensured regulatory compliance.
+- Contributed to maintaining the company’s document inventory.
 
+**University Lecturer**  
+*Fundación Universitaria Internacional del Trópico Americano – Unitrópico, Casanare, Colombia 
+(August 2015 – December 2015)*
+- Taught software development, databases, and productivity software tools.
+- Participated in curriculum planning and continuous evaluation.
+- Applied various teaching strategies to meet diverse student learning needs.
+- Maintained accurate student records and grades.
+- Attended staff and faculty meetings.
+- Implemented different approaches to ensure academic success.
+- Assessed student learning using appropriate evaluation methods.
+- Adapted instruction to meet individual student needs.
 
-#### Digital clock
-Modern digital clock that displays the current time in hours, minutes, and seconds, with a real-time update every second. 
+---
 
-+ **Technologies used:**
+## 🎓 Education
 
-    - HTML, CSS and JavaScript, AI-powered.
+**Postgraduate Specialization in Comprehensive Software Analysis and Design**  
+*Universidad Europea Del Atlántico*  
+📅 2016 – 2017  
 
-+ **Demo:** [Click here](https://faidrn.github.io/digital-clock/)
+**Bachelor’s in Systems Engineering**  
+*Fundación Universitaria Internacional del Trópico Americano (UniTrópico)*  
+📅 2009 – 2013  
 
-+ **Repository:** [Click here](https://github.com/faidrn/digital-clock)
+---
 
-+ **Screenshots**
+## ⚙️ GitHub Stats
 
-![](https://github.com/faidrn/digital-clock/blob/main/assets/images/ScreenShotDigitalClock.png)
+![Fredy's GitHub stats](https://github-readme-stats.vercel.app/api?username=faidrn&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faidrn&layout=compact&theme=tokyonight)
 
+---
 
+## 📫 Get in Touch
 
-#### Analog clock
-Functional analog clock with a round clock face and moving hour, minute, and second hands. The clock updates every second, mimicking the movement of a traditional analog clock.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredy-izquierdo-897740344)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredy_izquierdo@hotmail.es)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faidrn)
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/13eg1_ZHyk50UNBbPsftdnQABrBi2GeO-/view?usp=sharing)
 
-+ **Technologies used:**
+---
 
-    - HTML, CSS and JavaScript.
+## ✨ A little more about me
 
-+ **Demo:** [Click here](https://faidrn.github.io/analog-clock/)
+🌍 Based in **Slovakia**, learning new languages and exploring different cultures.  
+🎯 Goal: To become a **Full-Stack Developer** and collaborate on meaningful, impactful projects.  
+💡 *Always learning. Always building.*
 
-+ **Repository:** [Click here](https://github.com/faidrn/analog-clock)
-
-+ **Screenshots**
-
-![](https://github.com/faidrn/analog-clock/blob/main/assets/images/ScreenShot.png)
-> Screen view.
-
-![](https://github.com/faidrn/analog-clock/blob/main/assets/images/ScreenShotMobile.png)
-> Mobile view.
-
-
-
-#### Hangman Game
-It's a guessing game about the player tries to guess a word by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, this is HTML, CSS and JavaScript's version.
-
-+ **Technologies used:**
-
-    - HTML, CSS and JavaScript.
-
-+ **Demo:** [Click here](https://faidrn.github.io/hangman-game/)
-
-+ **Repository:** [Click here](https://github.com/faidrn/hangman-game)
-
-+ **Screenshots**
-
-![](https://github.com/faidrn/hangman-game/blob/main/assets/images/fullscreen.png)
-
-
-
-#### Youtube Clone
-YouTube Clone as a project to gain practical experience in web development and understand the technologies used in this field. This project involves developing a web application that looks like YouTube.
-
-+ **Technologies used:**
-
-    - HTML, CSS and JavaScript.
-
-+ **Demo:** [Click here](https://faidrn.github.io/youtube-clone/)
-
-+ **Repository:** [Click here](https://github.com/faidrn/youtube-clone)
-
-+ **Screenshots**
-
-![](https://github.com/faidrn/youtube-clone/blob/main/assets/img/fullscreen.png)
-
-
-
-#### Book in 3D with CSS
-Drawing of a book in 3D with HTML and CSS.
-
-+ **Technologies used:**
-
-    - HTML and CSS.
-
-+ **Demo:** [Click here](https://faidrn.github.io/hello-world/book-3d.html)
-
-+ **Repository:** [Click here](https://github.com/faidrn/hello-world/blob/main/book-3d.html)
-
-+ **Screenshots**
-
-![](https://github.com/faidrn/hello-world/blob/main/screens/book-3d.png)
-
-
-
-#### House in 3D with CSS, Dragon Ball Z
-Drawing from the kame house in 3D from the anime Dragon Ball Z; using HTML, CSS and JavaScript.
-
-+ **Technologies used:**
-
-    - HTML, CSS and JavaScript.
-
-+ **Demo:** [Click here](https://faidrn.github.io/hello-world/kame-house/kame-house.html)
-
-+ **Repository:** [Click here](https://github.com/faidrn/hello-world/tree/main/kame-house)
-
-+ **Screenshots**
-
-![](https://github.com/faidrn/hello-world/blob/main/screens/kame-house.png)
-
-
-
-#### Savings Capacity Simulator
-Simulator that calculates the possibility of separating a percentage of the income and reserving it for future use.
-
-+ **Technologies used:**
-
-    - HTML, CSS and JavaScript.
-
-+ **Demo:** [Click here](https://faidrn.github.io/hello-world/JavaScript/salary-study-simulator/capacidad-de-ahorro.html)
-
-+ **Repository:** [Click here](https://github.com/faidrn/hello-world/tree/main/JavaScript/salary-study-simulator)
-
-+ **Screenshots**
-
-![](https://github.com/faidrn/hello-world/blob/main/screens/savings.png)
-
-
-
-### Challenges
-
-### PlatziWebChallange
-
-Projects to grow as a Web Developer
-
-#### Single Section Landing Pages
-This challenge applies basic knowledge of HTML and CSS
-
-+ **Demo:** [Click here](https://faidrn.github.io/landing-page-con-unica-seccion-de-introduccin/)
-
-+ **Repository:** [Click here](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin)
-
-+ **Screenshots**
-
-**Desktop**
-
-![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/desktop-design.jpg)
-
-**Mobile**
-
-![](https://github.com/faidrn/landing-page-con-unica-seccion-de-introduccin/blob/main/design/mobileScreenShot.png)
-
-
-
-#### Challenge Article Preview Component
-This challenge applies basic knowledge of HTML, CSS and JavaScript
-
-+ **Demo:** [Click here](https://faidrn.github.io/challenge-article-preview-component/)
-
-+ **Repository:** [Click here](https://github.com/faidrn/challenge-article-preview-component)
-
-+ **Screenshots**
-
-**Desktop**
-
-![](https://github.com/faidrn/challenge-article-preview-component/blob/main/design/desktop-active-state.jpg)
-
-**Mobile**
-
-![](https://github.com/faidrn/challenge-article-preview-component/blob/main/design/mobile-active-state.jpg)
-
-
-#### Challenge Four Card Feature Section
-This challenge applies basic knowledge of HTML, CSS
-
-+ **Demo:** [Click here](https://faidrn.github.io/challenge-four-card-feature-section/)
-
-+ **Repository:** [Click here](https://github.com/faidrn/challenge-four-card-feature-section)
-
-+ **Screenshots**
-
-**Desktop**
-
-![](https://github.com/faidrn/challenge-four-card-feature-section/blob/main/design/desktop-design.jpg)
-
-**Mobile**
-
-![](https://github.com/faidrn/challenge-four-card-feature-section/blob/main/design/mobile-design.jpg)
-
-----
-
-
-### Python Projects
-
-#### Hangman Game
-It's a guessing game about the player tries to guess a word by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, this version was made with Python.
-
-+ **Demo:** [Click here](https://github.com/faidrn/hangman-game-py)
-
-+ **Repository:** [Click here](https://github.com/faidrn/hangman-game-py)
-
-+ **Screenshots**
-
-        ________
-        | /    |
-        |/     O
-        |     /|\
-        |      |
-        |     / \
-        |
-    --------
-
-
-
-## Technical Skills
-
-+ **Fronted:** HTML5, CSS3, Javascript.
-+ **Database:** MySQL
-+ **Tools:** Git, GitHub
-+ **Others:** Python
-
-
-
-## Professional Experience
-
-+ **Professional support** - Caja De Compensación Familiar Del Casanare (Comfacasanare) [Aug 2008 - Aug 2022]
-    + The IT support professional in the quality area provides technical and operational support in the processes of quality assurance and control of services or company systems; assisting in the execution of software and system tests to verify compliance with functional and quality requirements, contributing to the development and implementation of software and systems, thus providing support in the configuration and maintenance of tools and platforms used for quality management, such as test management systems or automation tools, thus optimizing workflows.
-
-
-
-
-## Education 
-+ **Systems Engineer (Bachelor)** - Fundación Universitaria Internacional del Trópico Americano (UniTrópico) [2009 - 2013]
-
-    + The Systems Engineer has structured and analytical technical-scientific knowledge that allows him to identify and understand disciplinary problems, proposing development alternatives to optimize processes and minimize costs, in order to achieve regional sustainable development. This professional has a comprehensive training based on skills that allow him to manage, plan, design, create and operate secure and reliable software, as well as manage data networks and projects, using basic sciences to improve processes and contribute to regional and global progress.
-
-
-
-## Contact me:
-
-+ **Email:** [fredy_izquierdo@hotmail.es](mailto:fredy_izquierdo@hotmail.es)
-+ **LinkedIn:** [Click here](https://www.linkedin.com/in/fredy-izquierdo/)
-+ **TikTok:** [Click here](https://www.tiktok.com/@devenaccion)
-
-----
-Thank you for visiting my portfolio! If you have any questions or would like to collaborate, please feel free to contact me.
+---
