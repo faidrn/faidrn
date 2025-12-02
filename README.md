@@ -26,6 +26,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [🐍 My Snake Game](https://github.com/faidrn/my-snake-game) | A modern remake of the classic Snake game using React.js. It offers smooth movement, a clear user interface, and high modularity | React · Tailwind CSS · npm · Vite |
 | [🌐 Modern React Portfolio](https://github.com/faidrn/my-portfolio) | Personal React portfolio with Vite and Tailwind — stylish, fast, and developer-friendly | React · Tailwind CSS · npm · Vite · Framer Motion · Node.js |
 | [🎨 Learning Tailwind CSS](https://github.com/faidrn/aprendiendo-tailwind/tree/main) | A practical guide for learning and experimenting with Tailwind CSS | HTML · Tailwind CSS · npm |
 | [🕹️ Tic-Tac-Toe Game - React Tutorial Implementation](https://github.com/faidrn/tic-tac-toe-game) | Implementation of the classic Tic-Tac-Toe game based on the official React tutorial | React · npm · Node.js |
