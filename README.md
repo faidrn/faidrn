@@ -26,6 +26,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [⛅ Foreweather](https://github.com/faidrn/foreweather) | Your personal forecast weather application. Built with React + Vite + Tailwind CSS, powered by Open-Meteo API. | React · Tailwind CSS · npm · Vite · API |
 | [🐍 My Snake Game](https://github.com/faidrn/my-snake-game) | A modern remake of the classic Snake game using React.js. It offers smooth movement, a clear user interface, and high modularity | React · Tailwind CSS · npm · Vite |
 | [🌐 Modern React Portfolio](https://github.com/faidrn/my-portfolio) | Personal React portfolio with Vite and Tailwind — stylish, fast, and developer-friendly | React · Tailwind CSS · npm · Vite · Framer Motion · Node.js |
 | [🎨 Learning Tailwind CSS](https://github.com/faidrn/aprendiendo-tailwind/tree/main) | A practical guide for learning and experimenting with Tailwind CSS | HTML · Tailwind CSS · npm |
