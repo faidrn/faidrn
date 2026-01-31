@@ -26,6 +26,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [🛒 My Nextjs E-commerce](https://github.com/faidrn/my-nextjs-ecommerce) | A modern ecommerce web application built with Next.js that includes a full shopping experience: product catalog, filters, cart, authentication, and checkout flow. | Nextjs · Tailwind CSS · npm · API |
 | [⛅ Foreweather](https://github.com/faidrn/foreweather) | Your personal forecast weather application. Built with React + Vite + Tailwind CSS, powered by Open-Meteo API. | React · Tailwind CSS · npm · Vite · API |
 | [🐍 My Snake Game](https://github.com/faidrn/my-snake-game) | A modern remake of the classic Snake game using React.js. It offers smooth movement, a clear user interface, and high modularity | React · Tailwind CSS · npm · Vite |
 | [🌐 Modern React Portfolio](https://github.com/faidrn/my-portfolio) | Personal React portfolio with Vite and Tailwind — stylish, fast, and developer-friendly | React · Tailwind CSS · npm · Vite · Framer Motion · Node.js |
@@ -95,7 +96,7 @@
 
 <div align="center">
 
-![Fredy's GitHub stats](https://github-readme-stats.vercel.app/api?username=faidrn&show_icons=true&theme=tokyonight&hide_border=true)
+![Fredy's GitHub stats](https://github-readme-stats.vercel.app/api?username=faidrn&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faidrn&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.vercel.app?user=faidrn&theme=tokyonight&hide_border=true)
 
