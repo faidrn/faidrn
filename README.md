@@ -26,6 +26,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [🛒 My Quality System](https://github.com/faidrn/my-quality-system) | Web application for comprehensive organizational quality management. It provides real-time visibility into the quality system status through an interactive dashboard, manages internal and external audits, tracks non-conformities, and controls the lifecycle of quality processes. | Reactjs · Tailwind CSS · npm · Vite · Radix UI · Recharts · Lucide React · date-fns · Sonner |
 | [🛒 My Nextjs E-commerce](https://github.com/faidrn/my-nextjs-ecommerce) | A modern ecommerce web application built with Next.js that includes a full shopping experience: product catalog, filters, cart, authentication, and checkout flow. | Nextjs · Tailwind CSS · npm · API |
 | [⛅ Foreweather](https://github.com/faidrn/foreweather) | Your personal forecast weather application. Built with React + Vite + Tailwind CSS, powered by Open-Meteo API. | React · Tailwind CSS · npm · Vite · API |
 | [🐍 My Snake Game](https://github.com/faidrn/my-snake-game) | A modern remake of the classic Snake game using React.js. It offers smooth movement, a clear user interface, and high modularity | React · Tailwind CSS · npm · Vite |
