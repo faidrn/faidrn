@@ -26,6 +26,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
+| [🗃️ HeaderLab](https://github.com/faidrn/HeaderLab) | HeaderLab is an experimental React playground focused on building, testing, and showcasing modern navigation headers. It serves as both a component lab and a design reference for scalable, reusable, and production-ready header patterns. | Reactjs · Tailwind CSS · npm · Vite · Framer motion · React Router DOM · Lucide React  |
 | [🛒 My Quality System](https://github.com/faidrn/my-quality-system) | Web application for comprehensive organizational quality management. It provides real-time visibility into the quality system status through an interactive dashboard, manages internal and external audits, tracks non-conformities, and controls the lifecycle of quality processes. | Reactjs · Tailwind CSS · npm · Vite · Radix UI · Recharts · Lucide React · date-fns · Sonner |
 | [🛒 My Nextjs E-commerce](https://github.com/faidrn/my-nextjs-ecommerce) | A modern ecommerce web application built with Next.js that includes a full shopping experience: product catalog, filters, cart, authentication, and checkout flow. | Nextjs · Tailwind CSS · npm · API |
 | [⛅ Foreweather](https://github.com/faidrn/foreweather) | Your personal forecast weather application. Built with React + Vite + Tailwind CSS, powered by Open-Meteo API. | React · Tailwind CSS · npm · Vite · API |
